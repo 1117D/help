@@ -1,5 +1,5 @@
 # 我们的软件
-  ### iRelax
+  iRelax
 
 ## jiajianji##163.com
 
