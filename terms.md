@@ -1,0 +1,29 @@
+# User Terms of Use
+
+We provide the Application to you subject to the following terms of use. IF YOU DO NOT ACCEPT THESE TERMS OF USE, DO NOT USE THIS APP. If you use the application, you affirmatively accept these terms of use.
+
+1. Use of the application
+
+1.1 You agree to use the App only for purposes permitted by (a) these Terms of Use and (b) any applicable laws, regulations or generally accepted practices or guidelines of the relevant jurisdiction. You agree to abide by all local laws and regulations regarding the download, installation and/or use of this application.
+
+1.2 By using the app, you agree to our processing of data as described in our Privacy Policy, which complies with the General Data Protection Regulation (GDPR).
+
+1.3 You agree that the app is not responsible for any content accessed from the app or third-party websites. You agree that you are solely responsible for your use of the app (and that the app has no liability to you or any third party).
+
+1.4 You acknowledge that the App may communicate with our servers from time to time to check for updates to the App, such as bug fixes, patches, enhancements, missing plugins and new versions. By installing the app, you consent to such automatic requests and receipt of updates.
+
+1.5 You agree that we may, in our sole discretion, cease (permanently or temporarily) providing the Application (or any functionality within the Application) to you or users without prior notice to you. You agree that if we disable access to an application, you may be prevented from accessing that application or certain features within the application.
+
+1.6 You may not distribute, publish or send through the application: (1) any spam, including any unsolicited advertisements, solicitations, commercial messages, information announcements or any type of promotional messages; (2) chain mail; (3) Bulk copies of identical or substantially similar messages; (4) empty messages; (5) messages containing no substantial content; (6) very large messages or files that disrupt servers, accounts, newsgroups, or chat services;
+
+2. Intellectual property rights
+
+2.1 The App and all content contained on or in the App, such as the user interface, compilation and arrangement of website content, and all text, graphics, pictures, sounds, videos, data, Apps and other content, are the property of us, The property of our licensors or content suppliers and is protected by copyright and other intellectual property laws. Reproduction or redistribution of such content is prohibited except as expressly permitted by these Terms of Use.
+
+2.2 We grant you a personal revocable, non-exclusive, non-transferable license to access and make personal use of our application. You may not download, reverse engineer, decompile, disassemble or modify it, or any part thereof, except with our express written consent. This application may not be reproduced, sold, resold, or otherwise exploited for any commercial purpose without our express written consent. You may not link to, frame or use framing techniques to enclose any trademarks, logos or other proprietary information (including images, text, page layout or form) of the Application without our prior written consent. Your unauthorized use of the App will immediately terminate the limited license granted by us.
+
+3. No Warranty and Limitation of Liability
+
+3.1 We do not warrant that the App, its functionality or content will be uninterrupted or error-free, or that defects will be corrected. We make no representations or warranties as to the accuracy or suitability of any offers, advertisements or third-party content in connection with the App. The application is provided "as is". You agree that your use of the app is at your own risk.
+
+3.2 We will not be liable for any damages whatsoever arising from your use or inability to use the App. For any claim you may have against us, our liability for monetary damages is limited to the amount you actually paid for the app.
